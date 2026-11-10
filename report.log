@@ -1,8 +1,0 @@
-2026-10-22 12:59:35,955 - asyncio - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost(None)
-handle: <Handle _ProactorBasePipeTransport._call_connection_lost(None)>
-Traceback (most recent call last):
-  File "C:\Users\kyled\miniconda3\envs\roest-thesis\Lib\asyncio\events.py", line 84, in _run
-    self._context.run(self._callback, *self._args)
-  File "C:\Users\kyled\miniconda3\envs\roest-thesis\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
-    self._sock.shutdown(socket.SHUT_RDWR)
-ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
