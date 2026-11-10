@@ -1,0 +1,2 @@
+trials,mean_pso_fitness,mean_random_fitness,mean_pso_advantage,wilcoxon_statistic,p_value,significant_at_0_05,pso_wins,random_wins
+60,152.35700475991763,152.42226360411507,0.06525884419748328,415.0,0.00011625097868449113,True,38,22

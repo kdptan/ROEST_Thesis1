@@ -1,0 +1,2 @@
+batch_id,current_airflow,recommended_airflow,current_dev_time,recommended_dev_time,predicted_drop_sec,duration_diff_sec,target_mse,target_rmse,fitness,lambda_change,beta_duration
+2104,71.0,63.274214986657,59.0,66.44971052016751,493.0,13.0,124.33384437063907,11.150508704567656,126.33070377970597,0.01,0.005

@@ -1,0 +1,2 @@
+batch_id,first_crack_time_sec,current_airflow_pct,current_dev_time_sec,recommended_airflow_pct,recommended_dev_time_sec,final_airflow_pct,final_dev_time_sec,current_mse,final_mse,current_rmse,final_rmse,predicted_improvement_pct,decision,predicted_drop_sec,optimization_fitness,runtime_sec
+NEW_UPLOAD,514.0,75.0,60.0,73.89469565058319,43.44265553307157,75.0,60.0,140.90565590779713,140.90565590779713,11.870368819366867,11.870368819366867,0.0,KEEP CURRENT SETTINGS,557,175.3712548266556,12.83124852180481
